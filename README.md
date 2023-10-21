@@ -11,7 +11,7 @@ Você sabia que a agricultura, uma prática tão antiga, está se modernizando a
 
 Imagine poder acessar a internet, aplicativos agrícolas e informações úteis, não importa onde você esteja. Nossa missão é tornar uma tecnologia acessível a todos os agricultores, especialmente aqueles que muitas vezes são esquecidos. Queremos garantir que a falta de acesso à Internet não seja mais um obstáculo.
 
-<h2>Nossa Ideia: 📱</h2>
+<h2>Nossa Ideia 📱</h2>
 <div class="content-container">
   <img align="right" src="https://github.com/yngridbaeta/Agronet/assets/84752394/f883866e-adc2-41ac-917c-b3165e37ddb3.png" alt="Agronet Image" width="300" height="500" class="side-image" />
   <div class="text">
