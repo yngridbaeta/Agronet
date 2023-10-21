@@ -40,7 +40,7 @@ Imagine poder acessar a internet, aplicativos agrícolas e informações úteis,
 
 
 #
-<h3>Linguagens utilizadas: 🚀</h3>
+<h3>Linguagens utilizadas 🚀</h3>
 <ul>
   <li>
     <img src="https://github.com/yngridbaeta/Agronet/assets/84752394/db8d9802-eac4-454b-a908-ee4988e3fbda.png" alt="React Native" width="50" height="50" />
